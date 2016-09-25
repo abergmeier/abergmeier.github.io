@@ -3,7 +3,7 @@ layout: blog
 title: Blog about embedded
 ---
 
-{% for post in site.categories.blog %}
+{% for post in site.categories.embedded_blog %}
 
 <div>
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
