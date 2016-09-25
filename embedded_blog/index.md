@@ -3,6 +3,8 @@ layout: blog
 title: Blog about embedded
 ---
 
+<header>My blog about all things hardware and low-level programming. Documents my tinkering phases.</header>
+
 {% for post in site.categories.embedded_blog %}
 
 <div>
