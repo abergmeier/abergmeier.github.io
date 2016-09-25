@@ -32,3 +32,7 @@ Should I not have missed any other usage, it seems like the end of Project ARA a
 ## Getting started
 
 Getting started with UniPro is not easy though since it is being developed by the MIPI Alliance. The only way of getting access seems through membership for thousands of euro.
+
+## Continuing
+
+For 
