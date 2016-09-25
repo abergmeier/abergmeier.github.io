@@ -21,6 +21,9 @@ For those not having heard about UniPro just yet, it basically provides high-spe
 
 Getting started with UniPro is not easy though since it is being developed by the MIPI Alliance. And the only way of getting access seems through membership for thousands of euro.
 
-Now it seems to me like the only people actually using UniPro were ARA. So I am kind of wondering
+## Usage
+
+Now as far as I could find out there were only usages of UniPro.
+1. Parts of UniPro might be used in UFS 2.0. Sadly searching for the UFS 2.0 spec one only finds the [press release]( https://www.jedec.org/news/pressreleases/jedec-publishes-universal-flash-storage-ufs-standard-v20) with a defunct link to the standards document. 
 
 The end of Project ARA also marks a problematic point. In the current situation it is not clear who will further invest in the technology. 
