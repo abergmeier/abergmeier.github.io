@@ -3,3 +3,4 @@ highlighter: rouge
 sass:
   sass_dir: _sass
 default_version: "master"
+theme: slate
